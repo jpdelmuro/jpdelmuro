@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">
+Hello, I'm Juan Pablo Del Muro!
+	<a href="https://github.com/jpdelmuro" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
+  
 
-<!--
-**jpdelmuro/jpdelmuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Systems Engineering Student (ITESO)**  
+✈️ **COO at ICA Aviation** | 🛩️ **Private Pilot**  
+💾 **Python & SQL Enthusiast**  
+🎮 **Video game lover**  
+🌟 **Learning, building, and exploring**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+	
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=c,java,py,js,html,css,mysql,git,vscode,eclipse,arduino,raspberrypi,wordpress,windows,linux,kali,&perline=8"  />
+</p>
+<div style="text-align: center;">
+  <h2>🤝 Connect with me</h2>
+</div>
+
+<p align="center">
+	<a href="mailto:jpdelmuro@gmail.com"><img img src="https://i.imgur.com/uelnLBr.gif" alt="Gmail" width="60"/></a>
+	<a href="https://x.com/jpdelmuro"><img src="https://i.imgur.com/IrXXzEE.gif" alt="Instagram" width="60"/></a>
+    <a href="https://www.instagram.com/jpdelmuro/"><img src="https://i.imgur.com/naLsHrw.gif" alt="Instagram" width="60"/></a>
+</p>

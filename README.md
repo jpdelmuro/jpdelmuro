@@ -6,7 +6,7 @@ Hello, I'm Juan Pablo Del Muro!
 </h1>
   
 
-🚀 **Systems Engineering Student (ITESO)**  
+🚀 **Computer Science Student (ITESO)**  
 ✈️ **COO at ICA Aviation** | 🛩️ **Private Pilot**  
 💾 **Python & SQL Enthusiast**  
 🎮 **Video game lover**  
